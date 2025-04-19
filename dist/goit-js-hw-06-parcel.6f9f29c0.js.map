@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/app.js"],"sourcesContent":["console.log('Hello world!');\n\n//# sourceMappingURL=goit-js-hw-06-parcel.6f9f29c0.js.map\n","console.log('Hello world!');"],"names":["console","log"],"version":3,"file":"goit-js-hw-06-parcel.6f9f29c0.js.map"}
